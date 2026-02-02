@@ -36,9 +36,9 @@ The project follows the **MVVM (Model-View-ViewModel)** pattern (conceptually im
 
 ### 📸 App Screenshots
 
-| Home Feed | Category Selection | Saved News |
-| :---: | :---: | :---: |
-| ![Home Feed](./screenshots/General_page.png) | ![Categories](./screenshots/User_saved.png) | ![Saved](./screenshots/Tech_page.png) |
+| General Page | Tech Page | Sports Page | Business Page | Saved Page | Share News
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| (./screenshots/General_page.jpg) | (./screenshots/Tech_page.jpg) | (./screenshots/Sports_page.jpg) | (./screenshots/Business_page.jpg) | (./screenshots/User_saved.jpg) |(./screenshots/share_news.jpg) |
 
 ---
 
