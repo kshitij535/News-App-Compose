@@ -36,9 +36,13 @@ The project follows the **MVVM (Model-View-ViewModel)** pattern (conceptually im
 
 ### 📸 App Screenshots
 
-| General Page | Tech Page | Sports Page | Business Page | Saved Page | Share News
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| (./screenshots/General_page.jpg) | (./screenshots/Tech_page.jpg) | (./screenshots/Sports_page.jpg) | (./screenshots/Business_page.jpg) | (./screenshots/User_saved.jpg) |(./screenshots/share_news.jpg) |
+| General Page | Tech Page | Sports Page |
+| :---: | :---: | :---: |
+| <img src="./screenshots/General_page.jpg" width="200"> | <img src="./screenshots/Tech_page.jpg" width="200"> | <img src="./screenshots/Sports_page.jpg" width="200"> |
+
+| Business Page | Saved Page | Share News |
+| :---: | :---: | :---: |
+| <img src="./screenshots/Business_page.jpg" width="200"> | <img src="./screenshots/User_saved.jpg" width="200"> | <img src="./screenshots/share_news.jpg" width="200"> |
 
 ---
 
